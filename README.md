@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ioannis Dabos-Doukas
-- 🌱 Currently a third year Mathematics student in St Andrews
+- 🌱 Currently a fourth year Mathematics student in St Andrews
 - 📫 Email giandabdouk@gmail.com 
 
 <!---
